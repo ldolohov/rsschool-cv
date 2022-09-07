@@ -7,7 +7,7 @@
 * Phone number: 080-8699-4940
 * E-mail: ldolohov@gmail.com
 * Telegram: @ny172
-* GitHub: [ldolohov](https://github.com/ldolohov)
+* [GitHub](https://github.com/ldolohov)
 ---
 
 ### About me
